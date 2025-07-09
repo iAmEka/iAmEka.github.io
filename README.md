@@ -3,7 +3,8 @@
 Selamat datang di repositori portofolio pribadi saya, **Abel Eka Putra**, seorang pengembang perangkat lunak yang antusias di bidang Web, AI, dan Mobile App.  
 Website ini dibangun menggunakan **Jekyll** dan **Tailwind CSS**, serta di-host secara gratis menggunakan **GitHub Pages**.
 
-🔗 **Live Demo**: [[https://iameka.github.io](https://iameka.github.io](https://iameka.github.io/))
+🔗 **Live Demo**: [https://iameka.github.io](https://iameka.github.io/)
+
 
 ---
 
